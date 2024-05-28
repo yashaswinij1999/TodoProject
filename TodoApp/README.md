@@ -36,12 +36,12 @@ Follow these steps to run the Todo app locally:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/yashaswinij1999/TodoProject
    ```
 
 2. Navigate to the project directory:
    ```
-   cd todo-app
+   cd TodoApp
    ```
 3. Install dependencies:
    ```
@@ -51,8 +51,4 @@ Follow these steps to run the Todo app locally:
    ```
    npm run dev
    ```
-5. Open your browser and navigate to http://localhost:3000 to view the app.
-
-### Contributions
-
-Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
+5. Open your browser and start the server to view the app.
