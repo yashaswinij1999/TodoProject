@@ -8,7 +8,7 @@ This is a simple Todo application built using Vite, React, and Material-UI. It a
 
 - **Add Todos:** Users can add new tasks to their list by typing into an input field and hitting "Enter".
 - **Delete Todos:** Each task can be deleted individually by clicking on a delete button associated with that task.
-- **Toggle Completion:** asks can be marked as completed or undone by clicking on a checkbox or specific UI element.
+- **Toggle Completion:** Tasks can be marked as completed or undone by clicking on a checkbox or specific UI element.
 - **Local Storage Integration:** The app uses local storage to persist the todo list data, ensuring that tasks are saved even when the page is refreshed.
 - **EditTodo** - Each tasks can be edit individually by clicking on the edit button associated with that task.
 
