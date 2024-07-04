@@ -2,9 +2,42 @@
 
 ---
 
-This is a simple Todo application built using Vite, React, and Material-UI. It allows users to add, delete, toggle, and edit todo items in a responsive and user-friendly interface.
+This is a simple Todo application built using React, and Material-UI. It allows users to add, delete, toggle, and edit todo items in a responsive and user-friendly interface.
 
-### Key Featured
+## Index
+
+- [TodoApp](#todoapp)
+  - [Index](#index)
+    - [Getting Started](#getting-started)
+    - [Key Features](#key-features)
+    - [Components](#components)
+    - [Technologies Used](#technologies-used)
+
+### Getting Started
+
+Follow these steps to run the Todo app locally:
+
+1. Clone the repository: (if you have Git installed) or download the repository as a ZIP file and extract it.
+
+   ```
+   https://github.com/yashaswinij1999/TodoProject.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd TodoProject
+   ```
+3. Install dependencies:
+   ```
+   npm install
+   ```
+4. Start the development server:
+   ```
+   npm run dev
+   ```
+5. Open your browser and start the server to view the app.
+
+### Key Features
 
 - **Add Todos:** Users can add new tasks to their list by typing into an input field and hitting "Enter".
 - **Delete Todos:** Each task can be deleted individually by clicking on a delete button associated with that task.
@@ -28,27 +61,3 @@ The TodoApp consists of several components:
 - **Material-UI:** React components for faster and easier web development.
 - **Local Storage:** Utilized to store todo list data locally in the browser.
 - **CSS:** Basic CSS styles are applied to enhance the UI and provide a pleasant user experience.
-
-## Getting Started
-
-Follow these steps to run the Todo app locally:
-
-1. Clone the repository: (if you have Git installed) or download the repository as a ZIP file and extract it.
-
-   ```
-   https://github.com/yashaswinij1999/TodoProject.git
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd TodoApp
-   ```
-3. Install dependencies:
-   ```
-   npm install
-   ```
-4. Start the development server:
-   ```
-   npm run dev
-   ```
-5. Open your browser and start the server to view the app.
