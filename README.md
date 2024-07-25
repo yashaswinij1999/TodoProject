@@ -20,7 +20,7 @@ Follow these steps to run the Todo app locally:
 1. Clone the repository: (if you have Git installed) or download the repository as a ZIP file and extract it.
 
    ```
-   https://github.com/yashaswinij1999/TodoProject.git
+   git clone https://github.com/yashaswinij1999/todo-project.git
    ```
 
 2. Navigate to the project directory:
