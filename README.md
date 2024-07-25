@@ -25,7 +25,7 @@ Follow these steps to run the Todo app locally:
 
 2. Navigate to the project directory:
    ```
-   cd TodoProject
+   cd todo-project
    ```
 3. Install dependencies:
    ```
